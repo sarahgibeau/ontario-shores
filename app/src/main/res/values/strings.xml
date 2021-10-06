@@ -1,0 +1,13 @@
+<resources>
+    <string name="arcgis_license_key">runtimelite,1000,rud4360492802,none,1JPJD4SZ8PPB003AD086</string>
+    <string name="app_name">Flood Map</string>
+    <string name="floods">The floods are coming...</string>
+    <string name="low">Low Emissions--1.7-3.2°C Warming</string>
+    <string name="high">High Emissions--3.2-5.4°C Warming</string>
+    <string name="first_url">https://services8.arcgis.com/jz7Sf6jvwlDKmvRp/arcgis/rest/services/75/FeatureServer/0</string>
+    <string name="second_url">https://services8.arcgis.com/jz7Sf6jvwlDKmvRp/arcgis/rest/services/76/FeatureServer/0</string>
+    <string name="data_button">Where did this data come from?</string>
+    <string name="info">Historical data was used to establish a correlation between Spring rainfall amounts and Lake Ontario’s annual peak level, which was then applied to predicted precipitation amounts in the Canadian Centre for Climate Services projected climate models. These potential high water levels were then integrated with elevation data to identify and display likely risk areas.</string>
+    <string name="intro">Since 2017, Lake Ontario’s water level has set two record-highs, causing wide-spread flooding and erosion--and the climate change-driven factors influencing these extreme events show no sign of slowing down. Select a projected climate scenario to see its potential impact on Toronto’s shores.</string>
+    <string name="report">Read the full climate report <a href="https://changingclimate.ca/CCCR2019/">here</a> </string>
+</resources>
