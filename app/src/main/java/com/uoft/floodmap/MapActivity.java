@@ -28,13 +28,7 @@ public class MapActivity extends AppCompatActivity implements View.OnClickListen
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_map);
-       /* new Handler().postDelayed(new Runnable(){
-            @Override
-            public void run(){
-
-            }*/
-
-
+      
         mMapView = findViewById(R.id.mapView);
         rGroup = findViewById(R.id.radioGroup);
         button = findViewById(R.id.data);
